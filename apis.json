@@ -1,0 +1,72 @@
+{
+    "name": "ReadMe.io",
+    "description": "Create beautiful product and API documentation with our developer friendly platform.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-33-pm.jpg",
+    "tags": [
+        "api lifeycle",
+        "documentation",
+        "have api",
+        "management",
+        "portals",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/readme-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ReadMe.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-33-pm.jpg",
+            "humanURL": "https:\/\/readme.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/readme-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.readme.io\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blog.readme.io\/rss\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/readme-io"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/semantria.readme.io\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "growth@readme.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@readme.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/readmeio"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/readmeio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/readme.io\/"
+        }
+    ]
+}
